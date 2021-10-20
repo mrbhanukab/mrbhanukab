@@ -1,16 +1,41 @@
 
 # 👋 Hi, I’m Mr.Bhanuka (@mrbhanukab)
 
-- 👀 I’m interested in Javascript, Python &  linux.
-- 🌱 I’m currently learning about React & React-Native.
+- 👀 I’m interested in Javascript, Python , CSS &  linux.
+- 🐧 Linux User [ **pop_os!** / Fedora]
+- 🌱 I’m currently learning about Vue.js.
 
   
- # 📫 How to reach me ...   
-    
-[![instagram](https://img.shields.io/badge/Instagram-@_mr.bhanuka_-%23E1306C?style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/_mr.bhanuka_)
-
-[![twitter](https://img.shields.io/badge/Twitter-mrbhanuka-%2300acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mrbhanuka)
-
-[![github](https://img.shields.io/badge/Github-mrbhanukab-%23333?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mrbhanukab)
-
-[![website](https://img.shields.io/badge/Github%20Page-mrbhanukab.github.io-lightgrey?style=for-the-badge&logo=GitHubr&logoColor=white)](https://mrbhanukab.github.io/)
+ ## 📫 How to reach me ...   
+<table boder="0">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/_mr.bhanuka_/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png" alt="https://www.instagram.com/_mr.bhanuka_/"/>
+      </a>
+    </td>
+        <td>
+      <a href="https://twitter.com/mrbhanuka" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="https://twitter.com/mrbhanuka"/>
+      </a>
+    </td>
+        <td>
+      <a href="https://github.com/mrbhanukab" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="https://github.com/mrbhanukab"/>
+      </a>
+    </td>
+            <td>
+      <a href="https://stackoverflow.com/users/16230406/mr-bhanuka" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" alt="https://stackoverflow.com/users/16230406/mr-bhanuka"/>
+      </a>
+    </td>
+                   <td>
+      <a href="https://codepen.io/bhanuka-bandara" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codepen.png" alt="https://codepen.io/bhanuka-bandara"/>
+      </a>
+    </td>
+            <td>
+      <a href="https://mrbhanukab.github.io/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="https://mrbhanukab.github.io/"/>
+      </a>
+    </td>
+                    <td>
+      <a href="https://www.linkedin.com/in/bhanuka-bandara-8a209420a/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="https://www.linkedin.com/in/bhanuka-bandara-8a209420a/"/>
+      </a>
+    </td>
+  </tr>
+</table>
