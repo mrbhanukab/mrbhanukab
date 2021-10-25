@@ -54,5 +54,5 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrbhanukab)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrbhanukab&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
