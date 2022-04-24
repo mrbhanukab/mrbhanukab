@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Mr.Bhanuka (@mrbhanukab)
 
 - 👀 I’m interested in Javascript, Python , CSS &  linux.
-- 🐧 Linux User [ **pop_os!** / Fedora]
+- 🐧 Linux lover
 - 🌱 I’m currently learning about Vue.js.
 
   
