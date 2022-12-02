@@ -13,7 +13,7 @@
       </a>
     </td>
         <td>
-      <a href="https://twitter.com/mrbhanuka" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="https://twitter.com/mrbhanuka"/>
+      <a href="https://twitter.com/mrbhanuka" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/twitter-circled.png" alt="https://twitter.com/mrbhanuka"/>
       </a>
     </td>
         <td>
