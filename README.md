@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Mr.Bhanuka
 - 👀 I’m interested in Javascript, Python , Ruby, Rust, Go, Dart, CSS &  linux.
 - 🐧 Linux lover
-- 🌱 I’m currently learning about Vue.js.
+- 🌱 I’m currently learning Data Science
 
   
  ## 📫 How to reach me ...   
