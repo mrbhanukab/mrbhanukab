@@ -1,4 +1,4 @@
-<a href="https://github.com/mrbhanukab" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/mrbhanukab/mrbhanukab/main/head.png" alt="Heading" style="width:auto; height: 20vh;"/></a>
+<a href="https://github.com/mrbhanukab" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/mrbhanukab/mrbhanukab/main/head.png" alt="Heading" style="width:70vw;"/></a>
 
 # 👋 Hi, I’m Mr.Bhanuka
 - 👀 I’m interested in Javascript, Python , Ruby, Rust, Go, Dart, CSS &  linux.
